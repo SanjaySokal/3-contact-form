@@ -1,0 +1,76 @@
+@media only screen and (max-width:1000px){
+
+    form{
+        background-color: rgba(2, 2, 73, 0.856);
+        color: #fff;
+        padding: 35px;
+        border-radius: 3px;
+        font-family: 'Poppins', sans-serif;
+        font-size: 10px;
+        margin: auto 55px auto 55px;
+    }
+    
+    h1, p{
+        color: #ffffff;
+        box-sizing: border-box;
+    }
+    h1{
+        font-size: 16px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        margin-top: 45px;
+    }
+    p{
+        font-style: italic;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 5px;
+        font-weight: 100;
+        font-size: 10px;
+    }
+    
+    a{
+        font-size: 8px;
+    }
+    
+    .texttype{
+        margin-top: 5px;
+        width: 100%;
+        outline: none;
+        inline-size: none;
+        border-radius: 6px;
+        font-size: 10px;
+        padding: 5px;
+        box-sizing: border-box;
+    }
+    
+    select{
+        margin-top: 5px;
+        width: 100%;
+        font-size: 0.5rem;
+        outline: none;
+        inline-size: none;
+        border-radius: 6px;
+        padding: 7px;
+    }
+    
+    textarea{
+        width: 100%;
+        height: 70px;
+        font-size: 9px;
+        inline-size: none;
+        border-radius: 2px;
+        padding: 7px;
+        box-sizing: border-box;
+    }
+    
+    button{
+        width: 100%;
+        font-size: 0.75rem;
+        padding: 0.30rem;
+        background-color: rgba(90, 167, 90, 0.918);
+        cursor: pointer;
+        border-color: rgba(111, 204, 111, 0.918);
+        color: #fff;
+        border-radius: 2px;
+    }
+}
